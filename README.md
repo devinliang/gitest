@@ -36,11 +36,19 @@ asdf
 * asdfasdf
 * asdf asdfasdfasdfasdf asdfasdfasdfasdfasdf asdfasdf asdfasdf asdf
 
-asdfasdfaszdf asdfasdf asdfasdfasdf
 
-1. | thead 1 | thrad 2 | thread 3 |
-2. |---------|---------|----------|
-3. | td      | td      | td       |
+以下為表格:
+ | 鄭妍汝 | 方鈺鑫 | 謝阡翔 |
+ |---------|---------|----------|
+  柳丁公主      | 家具公主      | 鰻魚高手      |
+  
+ 以下為免費編寫軟體網址:
+ 
+ [https://hackmd.io/4kDEew32QOmUW3yRFt1BNA]
+ 
+ [https://typora.io/]
+ 
+
 
 
 
