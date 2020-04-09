@@ -1,5 +1,4 @@
-# gitest
-# 20200409
+# gitest20200409
 
 ## LALALALA
 For my class test
