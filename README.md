@@ -24,8 +24,8 @@ For my class test
 
 **checkbox**
 
-- [ ]5657
-- [x]5897
+- [ ] 5657
+- [x] 5897
 
 * Item1
   * Item11
