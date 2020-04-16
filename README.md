@@ -1,8 +1,12 @@
-# 介紹 HTML 與 CSS
+# 關於 <青春有你2>
 
-## HTML 是什麼?
+## <青春有你2> 是什麼?
 
-html 代表 **hyper text markup language**
+![圖片](https://s.yimg.com/ny/api/res/1.2/pc2ytRpyZmfZGNcwKWlHEQ--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NTAwO2g9MzUw/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-04/cf519700-7b12-11ea-bff6-089b9060ced2)
+
+
+
+<青春有你2> 代表 **中國的選秀節目**
 
 一個 html 的頁面範例：
 
@@ -12,50 +16,38 @@ html 代表 **hyper text markup language**
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>新文件</title>
+        <title>青春有你2</title>
     </head>
     <body>
     <h1>Hello World</h1>
     </body>
     </html>
 
-* I'm still the same
-* nothing change
-
-1. 001
-2. 002
-3. 003
-4. 004
-5. 005
-    * 0051
-    * 0052
-    * 0053
-
-以下是引用文字:
-> 當我手拿起刀 就是準備要切蛋糕
-> 我不是矮 只是不太高
->> 我後悔高中花錢裝很吵的排氣管
+是中國愛奇藝推出的偶像女團競演養成類真人秀節目。
+本季節目改為女生選秀。
+節目賽制是從各家經紀公司或練習生公司選出109位參賽，
+在4個多月中進行封閉式的訓練及錄制，
+最終由全民票選出9人組成全新偶像團體出道。
+本季節目以「多遠都可以到達」為主題，
+由蔡徐坤擔任青春製作人代表（主持人），
+Lisa擔任舞蹈導師，
+陳嘉樺擔任音樂導師，
+Jony J擔任說唱導師，
+林宥嘉擔任X導師。
 
 
+## 參加者介紹
 
+| 姓名    |     出生地   | 經紀公司    |
+|--------|--------------|------------|
+|  符佳  |      遼寧    |   一綜星船   |
+|  王清  |      山東    |   大王娛樂   |
+|  張鈺  |      北京    |   大王娛樂   |
+|  姚依凡 |      陝西   |   天加一     |
+|  周梓倩 |      上海   |   天加一     |
+|  韓東   |      湖北   |   少城時代   |
+|  許馨文 |      湖南   |   少城時代   |
+|  黃小芸 |      廣西   |   少城時代   |
+| 未書羽  |      江西   |   少城時代   |
 
-## CSS 是什麼?
-CSS 的全名為 **Cascading Style Sheets，是一種樣式表 (Stylesheet) 語言。**
-它的目的是為了對像 XHTML 及 HTML 之類的標記語言 (markup language) 提供一個顯示層。有了 CSS，我們就可以將資料層及顯示層分開：HTML 文件就只包括資料，而 CSS 則是告訴瀏覽器這些資料應該要如何顯現出來。
-
-| 班級   |     學號   | 姓名    |
-|--------|------------|--------|
-| UD2A   | 1107211001 | 謝謹昀    |
-| UD2A   | 1107211002 | 柯苡萱   |
-| UD2A   | 1107211003 | 張涴瑜   |
-| UD2A   | 1107211004 | 鄭百翔   |
-| UD2A   | 1107211005 | 朱彥誠   |
-| UD2A   | 1107211006 | 郭朝祐   |
-| UD2A   | 1107211007 | 李冠廷   |
-| UD2A   | 1107211008 | 伍柏丞   |
-
-
-
-
-## 圖片
-![unsplash 圖片](https://images.unsplash.com/photo-1573900941478-7cc800f708f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80)
+共多資訊都在：https://zh.wikipedia.org/wiki/青春有你_(第二季)
