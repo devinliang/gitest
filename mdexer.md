@@ -6,11 +6,11 @@
 
 ---
 
-* [1107211097楊芠宜](https://github.com/pfactress/gitest/test)
+* [1107211097楊芠宜](https://github.com/pfactress/gitest/blob/master/test)
 * 應到人數:100
 * 實到人數:88
-** 病假人數:9
-** 曠課人數:3
+* 病假人數:9
+* 曠課人數:3
 
 ## 曠課名單
 |   班級  |     學號    |   姓名   |
