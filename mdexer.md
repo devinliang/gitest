@@ -7,7 +7,10 @@
 ---
 
 * [1107211078 張簡鈺玲](https://github.com/lillian0617/gitest-1.git)
-* 
+* ![image alt](https://fooding-aws.hmgcdn.com//images/audio/100656/lo__100656_1559789193_c.jpg)
+
+[台灣好食材 首頁](https://www.fooding.com.tw/)
+
 ## 購買班級人數
 烹煮食材
 
