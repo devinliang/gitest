@@ -12,7 +12,7 @@ html 代表 **hyper text markup language**
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>新文件</title>
+        <title>地球村你好</title>
     </head>
     <body>
     <h1>Hello World</h1>
@@ -47,10 +47,16 @@ asdfasdfaszdf asdfasdf
 asdfasdfasdf
 
 ## CSS 是什麼?
+
+Cascading style Sheets是 「層疊樣式表單」的意思，也可以叫作「層疊樣式表」，
+實際上CSS語言是一組樣式，是一個用於網頁排版的標記性語言。
+它是由W3C協會制定並發布的一個網頁排版式標準，是對HTML語言功能的補充。
+
+原文網址：https://kknews.cc/tech/xpzeq.html
 For my class test
-老師你好 我覺得這個好難
+老師 我覺得這個真的好難
 
 | 班級   |     學號   | 姓名    |
 |--------|------------|--------|
-| UD2A   | 1108211001 | MMM    |
-| UD2A   | 1108211002 | NNN    |
+| UD2B   | 1107211088 | 廖紫婷    |
+| UD2B   | 1107211088 | 廖紫婷    |
