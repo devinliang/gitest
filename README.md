@@ -1,6 +1,6 @@
-# 介紹 HTML 與 CSS
+# 星期四四月十六日的星期四
 
-## HTML 是什麼?
+## 我正被github摧殘
 
 html 代表 **hyper text markup language**
 
@@ -48,7 +48,7 @@ asdfasdfasdf
 
 ## CSS 是什麼?
 For my class test
-老師你好 我覺得這個好難
+老師你好 我覺得好難
 
 | 年   |     月  | 日   |
 |--------|------------|--------|
