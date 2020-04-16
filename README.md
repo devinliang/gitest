@@ -40,12 +40,7 @@ html 代表 **hyper text markup language**
 
 
 ## CSS 是什麼?
-For my class test
-老師可以不要教那麼難嗎?
 
-| 班級   |     學號    | 姓名    |
-|--------|------------|---------|
-| UD2B   | 1107211078 | 張簡鈺玲 |
 
 =======
 CSS 的全名為 **Cascading Style Sheets，是一種樣式表 (Stylesheet) 語言。**
