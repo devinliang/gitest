@@ -4,7 +4,7 @@
 
 
 
-![圖片]((https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-11-Pro_Colors_091019_big.jpg.large.jpg)
+![圖片](https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-11-Pro_Colors_091019_big.jpg.large.jpg)
 
 ## Iphone的誕生
 因為賈伯斯擔心有iPod功能的手機，會侵蝕iPod市場，但現有市場卻已被模仿iPod設計的MP3廠商侵蝕而全球手機市場也正在爆發性成長，不做手機等於放棄市場。直到2004年賈伯斯才同意做手機。
