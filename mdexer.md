@@ -6,5 +6,5 @@
 
 ---
 
-* [1107211088廖紫婷](https://github.com/devinliang/gitest/)
+* [1107211088廖紫婷](https://github.com/ting0217/gitest-1/blob/master/README.md)
 * 
