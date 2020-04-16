@@ -9,7 +9,6 @@
 * [1107211078 張簡鈺玲](https://github.com/lillian0617/gitest-1.git)
 * 
 ## 購買班級人數
-For my class test
 烹煮食材
 
 | 班級   |     學號    | 姓名    |
