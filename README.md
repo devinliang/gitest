@@ -1,8 +1,8 @@
-# 介紹 HTML 與 CSS
+# Nike
 
-## HTML 是什麼?
+## Nike
 
-html 代表 **hyper text markup language**
+# Nike
 
 一個 html 的頁面範例：
 
@@ -12,45 +12,27 @@ html 代表 **hyper text markup language**
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>新文件</title>
     </head>
     <body>
     <h1>Hello World</h1>
     </body>
     </html>
 
-asdfasdfasdf asdfasdf
-asdfasdfasdf asdfasdf
-asdfasdf
+[Nike](https://www.nike.com/tw/)
 
-* asdfasdf
-* asdf
-* asdfasdf
 
-1. asdfasdf
-1. asdfasdf
-1. sadfasdf
-3. asdfasdf
-5. asdfasdf
-    * asdfasdf
-    * asdfasdf
-    * asdfasdf
+- 鞋
++ 背包
+* 衣服
+	- 男款
+    - 女款
 
-以下是引用文字:
-> asdf asdfasdfasdfasdf
-> asdfasdfasdfasdfasdf
-> asdfasdf asdfasdf asdf
->> asdfasdf
->> asdfasdf
 
-asdfasdfaszdf asdfasdf
-asdfasdfasdf
 
-## CSS 是什麼?
-For my class test
-老師你好 我覺得這個好難
+| 性別   |      鞋款   |
+|--------|-------------|
+| 男性|      板鞋    |
+| 女性   |      慢跑鞋     |
 
-| 班級   |     學號   | 姓名    |
-|--------|------------|--------|
-| UD2A   | 1108211001 | MMM    |
-| UD2A   | 1108211002 | NNN    |
+
+![Nike](https://c.static-nike.com/a/images/w_1200,c_limit/bzl2wmsfh7kgdkufrrjq/seo-title.jpg)
