@@ -6,5 +6,5 @@
 
 ---
 
-* [我的學號與名稱](https://github.com/devinliang/gitest/)
+* [1107211088廖紫婷](https://github.com/devinliang/gitest/)
 * 
