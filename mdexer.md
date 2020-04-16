@@ -6,7 +6,7 @@
 
 ---
 
-* [1107211078 張簡鈺玲](https://github.com/lillian0617/gitest-1.git)
+* [1107211078 張簡鈺玲](https://github.com/lillian0617/gitest-1/blob/master/mdexer2.md)
 * ![image alt](https://fooding-aws.hmgcdn.com//images/audio/100656/lo__100656_1559789193_c.jpg)
 
 [台灣好食材 首頁](https://www.fooding.com.tw/)
