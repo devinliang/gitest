@@ -24,7 +24,8 @@
 *利用github練習mdexer
 
 ##口罩的剩餘數量系統網址:
-via https://mask.polstargps.com/
+
+https://mask.polstargps.com/
 
 1.期中考週
 *考試覺得好累哦!
