@@ -10,6 +10,8 @@
 
 * 應到人數:100
 * 實到人數:88
+** 病假人數:9
+** 曠課人數:3
 
 ## 曠課名單
 |   班級  |     學號    |   姓名   |
@@ -25,19 +27,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>新文件</title>
+    <title>文藻外語大學4/16上課情況</title>
     </head>
     <body>
-    <h1>Github多人測試</h1>
-    <h2>測試並進行改動</h2>
-    <h3>然後再丟回去github</h3>
-    <h4>name: ZhengHao</h4>
-
-    <h1>Hello World!</h1>
-    
-    <p>檳榔一百塊兩例</p>
-
-    <p>1107211094陳苡銜</p>
+    <h1> 應到人數:100</h1>
+    <h1> 實到人數:88 <h1>
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita sequi ducimus voluptatem accusantium similique quasi provident sint modi! Porro modi in repellendus quidem repudiandae ipsa soluta quas, laborum esse dolorem!</p>
 
