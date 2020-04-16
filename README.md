@@ -1,53 +1,17 @@
-# 四月十六日的星期四
+# IPHONE
 
-## 我正被github摧殘
+## Iphone誕生
+iPhone誕生的關鍵原因已經不可考，但能確信的是，賈伯斯從一開始就不想做手機。他曾對多次提醒手機重要性，甚至已經做出接近iPhone的原型機（iPod加上Wifi功能）的員工說道：「我就是不想做這個，沒意義。」
+直到2004年11月7日深夜，貝爾告知賈伯斯2個再不做，就來不及的理由：第一，賈伯斯原本擔心有iPod功能的手機，會侵蝕iPod市場，但現有市場卻已被模仿iPod設計的MP3廠商侵蝕；第二，全球手機市場正在爆發性成長，不做手機等於放棄市場。最後，賈伯斯終於同意：「好吧，我們應該做手機。」
 
-html 代表 **hyper text markup language**
+##
 
-一個 html 的頁面範例：
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    </head>
-    <body>
-    
-    </body>
-    </html>
-asdfasdfasdf asdfasdf
-asdfasdfasdf asdfasdf
-asdfasdf
+## 什麼是
 
-* asdfasdf
-* asdf
-* asdfasdf
 
-1. asdfasdf
-1. asdfasdf
-1. sadfasdf
-3. asdfasdf
-5. asdfasdf
-    * asdfasdf
-    * asdfasdf
-    * asdfasdf
+## 機型比較
 
-以下是引用文字:
-> asdf asdfasdfasdfasdf
-> asdfasdfasdfasdfasdf
-> asdfasdf asdfasdf asdf
->> asdfasdf
->> asdfasdf
-
-asdfasdfaszdf asdfasdf
-asdfasdfasdf
-
-## 什麼是 html?
-HTML是一種網頁使用的語言，是一種描述超文件的註記語言SGML(Standard Generalized Markup Language)所制訂出的一種網頁語言，基本上現行的瀏覽器都可以讀取HTML，使用HTML可以編輯設計出網頁，也可以在網頁中加入所有HTML語言可支援的方式，例如表格、表單、圖片、文字、連結、程式等等。
-
-| 年   |     月  | 日   |
+| 機型|  價格    | 尺吋  |
 |--------|------------|--------|
-| 2019  | 4 |   16 |
-|  2020  | 4 |  16  |
+| iphone11 | $35,900 |  5.8 |
+| iphone11 pro |$39,900 |  6.5  |
