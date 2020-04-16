@@ -2,8 +2,6 @@
 
 ## Nike
 
-# Nike
-
 一個 html 的頁面範例：
 
     <!DOCTYPE html>
